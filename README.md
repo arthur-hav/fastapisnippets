@@ -1,0 +1,2 @@
+# fastapisnippets
+Fast Api Snippets
